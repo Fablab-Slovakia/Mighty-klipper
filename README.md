@@ -1,4 +1,6 @@
-Welcome to the Klipper project!
+Klipper port to MakerBot MightyBoard rev. G/H and Replicator 2X.
+
+#Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 
